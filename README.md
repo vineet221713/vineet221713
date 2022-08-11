@@ -36,4 +36,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vineet221713&show_icons=true&locale=en" alt="vineet221713" /></p>
 
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vineet221713&" alt="vineet221713" /></p>
+
+<a href="https://github.com/nntivari11111/github-readme-activity-graph"><img alt="Vineet Singh Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vineet221713&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
+ </p>
