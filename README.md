@@ -17,15 +17,14 @@ When I'm not at the keyboard, I like playing cricket and hanging out with friend
 
 
 
-- 🔭 I’Complete Clone of E-commerce WebSite [Big-Basket](https://github.com/Snehil133/BigBasketProject.git)
+<!-- - 🔭 I’Complete Clone of E-commerce WebSite [Big-Basket](https://github.com/Snehil133/BigBasketProject.git) -->
 
 - 🌱 I’m currently learning **Spring-Boot,MySQL,Hybernet**
 
 - 👯 I’Complete individual project Clone of WebSite [MX - Fassion](https://github.com/vineet221713/MxFass-Main.git)
 
-- 🤝 I’ complete my group project. Clone of a Ecommerce website. [Skin-Store](https://github.com/SouravDhawa/Group_project_skinstore_website.git)
-
-- 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/vineetsingh1122/overview](https://app.netlify.com/teams/vineetsingh1122/overview)
+- 🤝 I’ complete my group project. Clone of a Ecommerce website. [Skin-Store](https://euphonious-marigold-38d635.netlify.app/)
+<!-- - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/vineetsingh1122/overview](https://app.netlify.com/teams/vineetsingh1122/overview) -->
 
 - 💬 Ask me about **HTML,CSS,JS,AdvaceJS,JAVA,DSA,MYSQL,Spring-Boot,JDBC,Hybernet**
 
