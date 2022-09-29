@@ -1,6 +1,18 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://vineet221713.io)
 <h1 align="center">Hi 👋, I'm Vineet Kumar Singh</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A passionate Backend developer from India
+I am a passionate software developer with web development technologies.
+
+Currently pursuing web development course from Masai School and ready to work.
+
+Have an experience of 1000+ hours of coding and 100+ hours of data sturctures and algorithms.
+
+5 ⭐⭐⭐⭐⭐ problem solver on HackerRank.
+
+Love to writing 👨‍💻 code and solve problem.
+
+When I'm not at the keyboard, I like playing cricket and hanging out with friends.
+</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
