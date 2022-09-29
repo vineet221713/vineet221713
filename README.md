@@ -21,7 +21,7 @@ When I'm not at the keyboard, I like playing cricket and hanging out with friend
 
 - 🌱 I’m currently learning **Spring-Boot,MySQL,Hybernet**
 
-- 👯 I’Complete individual project Clone of WebSite [MX - Fassion](https://github.com/vineet221713/MxFass-Main.git)
+- 👯 I’Complete individual project Clone of WebSite [MX - Fassion](https://app.netlify.com/sites/chimerical-babka-9dbef0)
 
 - 🤝 I’ complete my group project. Clone of a Ecommerce website. [Skin-Store](https://euphonious-marigold-38d635.netlify.app/)
 <!-- - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/vineetsingh1122/overview](https://app.netlify.com/teams/vineetsingh1122/overview) -->
