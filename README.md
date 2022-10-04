@@ -52,6 +52,6 @@ When I'm not at the keyboard, I like playing cricket and hanging out with friend
 
 <a href="https://github.com/vineet221713/github-readme-activity-graph"><img alt="Vineet Singh Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vineet221713&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<p align="center">
+<!-- <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
- </p>
+ </p> -->
