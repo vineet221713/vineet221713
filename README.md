@@ -29,7 +29,7 @@ When I'm not at the keyboard, I like playing cricket and hanging out with friend
 
 - 📫 How to reach me **vineetsingh1122@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hsUT9qcwVZwUBoXxLhs-rqAv8oTSTl3I/view?usp=sharing](https://drive.google.com/file/d/1hsUT9qcwVZwUBoXxLhs-rqAv8oTSTl3I/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1hsUT9qcwVZwUBoXxLhs-rqAv8oTSTl3I/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
