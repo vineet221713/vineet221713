@@ -57,10 +57,8 @@ When I'm not at the keyboard, I like playing cricket and hanging out with friend
     <a href="https://vineet111222.netlify.app/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://saurabhpagrut.github.io/" />
     </a>
-    <a title="vineetsingh1122@gmai.com" href="mailto:vineetsingh1122@gmai.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="getsaurabhpagrut@gmail.com" />
-    </a>
-    </a>
+   
+
     
 
 </p>
