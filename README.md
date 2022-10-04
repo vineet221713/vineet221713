@@ -26,7 +26,7 @@ When I'm not at the keyboard, I like playing cricket and hanging out with friend
 - 🤝 I’ complete my group project. Clone of a YouTube website. [You-Tube](https://vineet-youtube-clone.netlify.app/)
 <!-- - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/vineetsingh1122/overview](https://app.netlify.com/teams/vineetsingh1122/overview) -->
 
-- 💬 Ask me about **HTML,CSS,JS,AdvaceJS,JAVA,DSA,MYSQL,Spring-Boot,JDBC,Hybernet**
+- 💬 Ask me about **HTML, CSS, JS, AdvanceJS, JAVA, DSA, MYSQL, Spring-Boot, JDBC, Hibernate**
 
 - 📫 How to reach me **vineetsingh1122@gmail.com**
 
