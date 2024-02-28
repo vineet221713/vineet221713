@@ -49,6 +49,8 @@ When I'm not at the keyboard, I like playing cricket and hanging out with friend
 ### <h2>:computer: Databases :computer:</h2>
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=blue)<br><br>
 <!----------------------------------- Social Media Links Section ------------------------------------>
+
+<!---
 <h2>:iphone: Let's Connect :iphone:</h2>
 <p align="left">
     <a href="https://www.linkedin.com/in/vineet-singh-6a6137111/" target="_blank">
@@ -72,6 +74,7 @@ When I'm not at the keyboard, I like playing cricket and hanging out with friend
 
 <a href="https://github.com/vineet221713/github-readme-activity-graph"><img alt="Vineet Singh Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vineet221713&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
+-->
 <!-- <p align="center">
  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
  </p>
